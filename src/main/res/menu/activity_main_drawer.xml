@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="@string/title">
+    <group android:checkableBehavior="single">
+        <menu>
+        <item
+            android:id="@+id/nav_html5"
+            android:icon="@drawable/ic_html5"
+            android:title="@string/item1" />
+        <item
+            android:id="@+id/nav_css"
+            android:icon="@drawable/ic_css"
+            android:title="@string/item2" />
+        <item
+            android:id="@+id/nav_js"
+            android:icon="@drawable/ic_javascript"
+            android:title="@string/item3" />
+        <item
+            android:id="@+id/nav_bootstrap"
+            android:icon="@drawable/ic_bootstrap"
+            android:title="@string/item4" />
+        <item
+            android:id="@+id/nav_sql"
+            android:icon="@drawable/ic_sql"
+            android:title="@string/item5" />
+        <item
+            android:id="@+id/nav_php"
+            android:icon="@drawable/ic_php"
+            android:title="@string/item6" />
+        <item
+            android:id="@+id/nav_asp"
+            android:icon="@drawable/ic_asp"
+            android:title="@string/item7" />
+        <item
+            android:id="@+id/nav_node"
+            android:icon="@drawable/ic_nodejs"
+            android:title="@string/item8" />
+        <item
+            android:id="@+id/nav_xml"
+            android:icon="@drawable/ic_xml"
+            android:title="@string/item9" />
+        <item
+            android:id="@+id/nav_jquery"
+            android:icon="@drawable/ic_jquery"
+            android:title="@string/item10" />
+
+        <item
+            android:id="@+id/nav_anjs"
+            android:icon="@drawable/ic_angularjs"
+            android:title="@string/item11" />
+        <item
+            android:id="@+id/nav_json"
+            android:icon="@drawable/ic_json"
+            android:title="@string/item12" />
+        <item
+            android:id="@+id/nav_ajax"
+            android:icon="@drawable/ic_ajax"
+            android:title="@string/item13" />
+        <item
+            android:id="@+id/nav_w3js"
+            android:icon="@drawable/ic_w3js"
+            android:title="@string/item14" />
+        <item
+            android:id="@+id/nav_appml"
+            android:icon="@drawable/ic_appml_custom"
+            android:title="@string/item15" />
+        <item
+            android:id="@+id/nav_more"
+            android:icon="@drawable/ic_plus"
+            android:title="@string/item16" />
+        </menu>
+    </group>
+</item>
+</menu>

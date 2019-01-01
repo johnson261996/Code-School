@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Code school</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title">Programming Languages</string>
+    <string name="action_about">About Us</string>
+    <string name="name">W3School</string>
+    <string name="email">support@w3schools.com</string>
+    <string name="action_home">Home</string>
+    <string name="action_exit">Exit</string>
+    <string name="item1">HTML5</string>
+    <string name="item2">CSS</string>
+    <string name="item3">Java Script</string>
+    <string name="item4">Bootstrap</string>
+    <string name="item5">Sql</string>
+    <string name="item6">php</string>
+    <string name="item7">Asp</string>
+    <string name="item8">Node.js</string>
+    <string name="item9">Xml</string>
+    <string name="item10">jquery</string>
+    <string name="item11">Angular.js</string>
+    <string name="item12">Json</string>
+    <string name="item13">Ajax</string>
+    <string name="item14">W3.js</string>
+    <string name="item15">AppML</string>
+    <string name="item16">More</string>
+</resources>
